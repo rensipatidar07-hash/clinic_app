@@ -1,0 +1,6 @@
+{
+  "name": "Pediatric Clinic Management",
+  "description": "A secure, desktop-optimized EMR and patient management system for single-doctor Pediatric clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
